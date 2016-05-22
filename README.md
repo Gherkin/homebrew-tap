@@ -1,6 +1,8 @@
 # homebrew-tap
 Homebrew tap!
 
+# Contents
+https://github.com/Gherkin/powersort
 # How to use?
     $ brew tap Gherkin/tap
     $ brew install powersort
