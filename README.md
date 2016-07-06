@@ -3,6 +3,8 @@ Homebrew tap!
 
 # Contents
 https://github.com/Gherkin/powersort
+https://github.com/Gherkin/pidport
+
 # How to use?
     $ brew tap Gherkin/tap
     $ brew install powersort
