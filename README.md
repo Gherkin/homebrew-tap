@@ -3,7 +3,8 @@ Homebrew tap!
 
 # Contents
 https://github.com/Gherkin/powersort  
-https://github.com/Gherkin/pidport
+https://github.com/Gherkin/pidport  
+https://github.com/niyohn-poly/rexec
 
 # How to use?
     $ brew tap Gherkin/tap
