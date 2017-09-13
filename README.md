@@ -6,6 +6,7 @@ https://github.com/Gherkin/powersort
 https://github.com/Gherkin/pidport  
 https://github.com/niyohn-poly/rexec  
 https://github.com/Gherkin/pexecute
+https://github.com/Gherkin/pssh
 
 # How to use?
     $ brew tap Gherkin/tap
