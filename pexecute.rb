@@ -8,6 +8,6 @@ class Pexecute < Formula
   depends_on "coreutils"
 
   def install
-    bin.install 'pexecute-1.0/pexecute'
+    bin.install 'pexecute'
   end
 end
