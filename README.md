@@ -5,6 +5,7 @@ Homebrew tap!
 https://github.com/Gherkin/powersort  
 https://github.com/Gherkin/pidport  
 https://github.com/niyohn-poly/rexec
+https://github.com/Gherkin/pexecute
 
 # How to use?
     $ brew tap Gherkin/tap
