@@ -6,6 +6,7 @@ class Pssh < Formula
   sha256 "aec50f83abde08997e2ddbfb26391609aa018fdab8c0dc29064855c2849924b5"
 
   depends_on "coreutils"
+  depends_on "pexecute"
 
   def install
     bin.install 'pssh'
